@@ -1,0 +1,34 @@
+# Environment variables
+.env
+.env.local
+.env.production
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Uploads and vectorstore
+uploads/
+vectorstore/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log.env
+*.env
+.env.local
