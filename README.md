@@ -264,13 +264,5 @@ Add more job sources in `jobs.py`:
 ## License
 
 MIT License
-
-## Support
-
-For issues or questions:
-- Open GitHub issue
-- Email: your-email@example.com
-
 ---
-
 Built with ❤️ using FastAPI, LangChain, and Groq
